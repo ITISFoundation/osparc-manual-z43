@@ -1,4 +1,4 @@
-# File Tree
+# File Tree ![File Tree](Images/filetree.png)
 At the top of the left-hand-side sidebar menu, you will find the following button: (![File Tree](Images/filetree.png)).  Clicking this button allows you to explore the directory structure of the currently opened service.  In addition, it exposes a menu of options at the top left of the page, described below.
 
 ## Launch a Window ![plus](Images/plus.png)
