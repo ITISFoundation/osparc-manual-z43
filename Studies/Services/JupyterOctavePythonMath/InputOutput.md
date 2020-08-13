@@ -15,5 +15,6 @@ If the code you are running is stored in the default folder of the Jupyter Lab, 
 ## Output Transfer To Other Services
 To allow transfer of output files FROM your Jupyter Lab to other nodes, either write, copy or move your output files to the ```outputs/output_1``` folder. Linking the output port of your Jupyter Lab service to the input port of the next service will then enable the next service to discover files in your ouput_1 folder.
 
+![Output Mapping](https://git.speag.com/oSparc/z43-manual/-/raw/master/Screenshots/outputlink.gif)
 
 **Pro Tip: Notice that when your input/output ports are not mapped (two nodes are connected but files are not mapped) the arrow linking two services will be dashed instead of solid.**
