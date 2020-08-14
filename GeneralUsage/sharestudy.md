@@ -9,8 +9,7 @@ To share a study:
 1. Access the study's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the study's card. 
 2. Choose the ```Permissions``` option
 3. In the popup, click on the ```Members``` dropdown to see the list of users you may share with and then click the ```Add``` button.
-
-The study will then appear in the **Studies** tab of the user(s) you have shared with. 
+4. The study will then appear in the **Studies** tab of the user(s) you have shared with. 
 
 ## Publishing a Study as a Template
 Publishing a study as a template will save the state of the study at the current moment and it will appear as a *Template Study* in the **Discover** tab. Any changes made to the original study after publishing as a template will not change the template. Clicking on the template in the **Discover** tab will create a copy of the contents of the template accessible in your **Studies** tab. Any changes you make to this study will not affect the template. 
