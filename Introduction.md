@@ -4,3 +4,5 @@ Welcome to Z43's online platform for code storage and execution! The purpose of 
 * __Shared__: accessible by other Z43 members
 * __Executed__: requiring no installations and using shared computational resources
 * __Organized__: findable and reusable by other Z43 members 
+
+![panda](Screenshots/computer_panda.png)

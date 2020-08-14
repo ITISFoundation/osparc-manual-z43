@@ -1,5 +1,8 @@
-# Study Operations
+# Studies
+
 A code project on the online platform is called "Study". Any study is accessible via the [Dashboard](../Dashboard.md) either in the ```Studies``` (which belong to or are shared with you) or the [Discover](../Discover.md) tab (for published templated studies).
+
+## Operations from the Dashboard
 
 There are a number of operations that are specific to studies, accessible by the three dot button at the upper right hand corner of each study.
 
@@ -18,3 +21,14 @@ These options are:
 The following short video demonstrates a few operations that can be performed with studies. 
 
 ![studieops](../Screenshots/studytools.gif)
+
+
+## Operations from the Study Workbench
+
+Double-clicking on a study will bring you to the study's workbench. This is where you will create and edit your flow chart, see your services, debug and run your study.
+
+The workbench consists of four main windows:
+1. **Pipeline window:** contains the services in your study and their connections. To create a new **Service** double-click anywhere in the empty space and choose a service from the catalog.
+2. **Service Tree:** you can see the list of services that are included in the study and add or delete them.
+3. **Study Information:** in this window, you will see useful metadata pertaining to the study you are currently editing. This could be filled by yourself or by the author of a template.
+4. **Logger:** collapsed by default, this window will display all messages pertinent to the running of your study. These messages can be filtered by keywords/keyphrases entered into the “Filter” field.
