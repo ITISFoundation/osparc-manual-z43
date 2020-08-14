@@ -10,3 +10,6 @@ To download files:
 1. Select the file you would like to download
 2. Click the download button at the very bottom of the window
 
+**Pro Tip: you may need to click the ```Reload``` button if the file has very recently been generated or modified
+
+![download](Screenshots/datadownload.gif)
