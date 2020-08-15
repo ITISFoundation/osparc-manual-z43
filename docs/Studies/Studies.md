@@ -6,7 +6,7 @@ A code project on the online platform is called "Study". Any study is accessible
 
 There are a number of operations that are specific to studies, accessible by the three dot button at the upper right hand corner of each study.
 
-![studyoptions](../Screenshots/studyoptions.png)
+![studyoptions](../_media/studyoptions.png)
 
 These options are:
 1. **Select:** allows you to select this study and/or others, primarily useful for deletion
@@ -20,7 +20,7 @@ These options are:
 
 The following short video demonstrates a few operations that can be performed with studies. 
 
-![studieops](../Screenshots/studytools.gif)
+![studieops](../_media/studytools.gif)
 
 
 ## Operations from the Study Workbench

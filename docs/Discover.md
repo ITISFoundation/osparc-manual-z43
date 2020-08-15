@@ -9,4 +9,4 @@ This section functions very simlarly to template studies. Clicking on a publishe
 
 The following video shows an example of creating a study from a template.
 
-![template](Screenshots/createfromtemplate.gif)
+![template](_media/createfromtemplate.gif)

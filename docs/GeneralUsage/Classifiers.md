@@ -9,7 +9,7 @@ In the **Discover** tab, templates and studies have classfiers assigned by the p
 
 In your own **Studies** tab, studies can also be filtered by classifier. To assign a classifier to your own study, click on the three dots on the upper right hand corner of a study and choose the *Classifiers* option. 
 
-![opt](../Screenshots/studyoptions.png)
+![opt](../_media/studyoptions.png)
 
 ## Search
 You may also search using the search and filter tool by typing in a specific word or phrase. This will search through a study or service's metadata to find a match to your search terms. 
@@ -19,4 +19,4 @@ Filtering and searching are not independent so you may combine both strategies t
 
 The following short video shows how to filter by classifier and assigning a classifier. 
 
-![class](../Screenshots/assignclass.gif)
+![class](../_media/assignclass.gif)

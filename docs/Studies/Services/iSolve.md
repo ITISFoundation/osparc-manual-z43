@@ -14,9 +14,9 @@ The following short video shows:
 3. Mapping the file to the iSolve input field
 4. Running the pipeline
 
-![isolvein](../../Screenshots/isolveinput.gif)
+![isolvein](../../_media/isolveinput.gif)
 
 ## Outputs
 The output of the iSolve service is another **HDF5** file that can be imported into Sim4Life for Postprocessing. You may download the file by entering the iSolve service (double-clicking on the service) and clicking on the ```Files``` button on the upper menu bar. 
 
-![isolveout](../../Screenshots/isolveoutput.gif)
+![isolveout](../../_media/isolveoutput.gif)

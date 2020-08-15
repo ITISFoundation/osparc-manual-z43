@@ -12,4 +12,4 @@ To download files:
 
 **Pro Tip: you may need to click the ```Reload``` button if the file has very recently been generated or modified
 
-![download](Screenshots/datadownload.gif)
+![download](_media/datadownload.gif)

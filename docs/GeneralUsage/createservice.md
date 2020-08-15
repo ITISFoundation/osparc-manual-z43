@@ -4,4 +4,4 @@ Services can be created in a study's **Workbench** by clicking anywhere in the e
 
 The following video demonstrates creating and deleting a service.
 
-![createdelete](../Screenshots/createdeleteserve.gif)
+![createdelete](../_media/createdeleteserve.gif)
