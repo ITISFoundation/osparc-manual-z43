@@ -6,7 +6,7 @@ If you would like to run your Sim4Life scripts on the online platform, you will 
     ```
     from z43_scene_viewer import Viewer
     ```
-2. To initialize the project, you must include the following code snippet into the python notebook: 
+2. To initialize the project, you must include the following code snippet into the python notebook before you begin setting up the model: 
     ```
     if get_app_safe() is None:
     run_application()
