@@ -16,7 +16,7 @@ Before beginning the tutorial, you will need to download an iPython notebook con
 8. When you are finished running the tutorial, save your results. 
 9. Go back to your **Dashboard** by clicking on ``Dashboard`` at the very top left of the screen.
 10. Your study is currently named with the default *New Study* name but you can rename it to something more appropriate by clicking on the three dots on the top right of the study's card, and selecting ```More Info```. In the popup, click the ```Edit``` button on the bottom. 
-11. Rename the study and provide a nice description if you like. The **Thumbnail**  field accepts URL's for images. When you are done, click ```Save``.
+11. Rename the study and provide a nice description if you like. The **Thumbnail**  field accepts URL's for images. When you are done, click ```Save```.
 12. You may now share your study if you wish, by again accessing the study options by clicking on the three dots on the upper right hand corner of the study's card, and selecting ```Permissions```. In the ```Members``` dropdown button, you may choose your best friend at Z43 to share your wonderful new study with. If you click ```Add```, your study will appear on their **Dashboard** on the **Studies** tab. 
 
 The following video shows steps 1-6
