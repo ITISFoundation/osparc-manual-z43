@@ -1,1 +1,3 @@
-MaG was here
+# Headline
+
+> An awesome project.
