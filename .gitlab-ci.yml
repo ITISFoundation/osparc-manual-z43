@@ -6,7 +6,7 @@ pages:
     - ubuntu_DOCKER
   script:
     - mkdir .public
-    - cp -r docs/ .public
+    - cp -r docs/* .public
     - mv .public public
   artifacts:
     paths:
