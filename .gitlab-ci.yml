@@ -5,9 +5,9 @@ pages:
   tags:
     - ubuntu_DOCKER
   script:
-    - mkdir .public
-    - cp -r docs/* .public
+    - cp -r docs .public
     - mv .public public
+    - ls -la public
   artifacts:
     paths:
       - public
