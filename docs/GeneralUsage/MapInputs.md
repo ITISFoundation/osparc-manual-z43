@@ -4,7 +4,7 @@ In order to make files from one service available in another, the output of the 
 1. The two services must be connected. To connect, click on the output port of ```out``` of the service providing files to the input port ```in``` of the next service, receiving the files. A dotted arrow will appear. 
     * You may connect the same output port to multiple services
     * Make sure that there is an output from the first service
-    * You may disconnect two services by clicking on the arrow between them and clicking the unlinking button that will appear on the bottom right hand corner of the workspace. ![unlink](../_media/unlink.png)
+    * You may disconnect two services by clicking on the arrow between them and clicking the unlinking button that will appear on the bottom right hand corner of the workspace.  <img src="../_media/unlink.png" width="20">
 
 2. Enter into the the service receiving the file by double clicking on it.
 3. From the inputs column, click and drag the file of interest and drop it into the appropriate input field of your service under **Settings**. 
