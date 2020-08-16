@@ -6,7 +6,11 @@ The iSolve service allows you to run Sim4Life solvers on **HDF5** files that wer
 The **HDF5** input file must be mapped to the input of the iSolve service by connecting the output port of the file supplier to the input port of the iSolve service and then mapping the appropriate file to iSolve's input field. The file should have the modeler and simulation configuration already defined. 
 
 ## Execution
-To run iSolve on the mapped file input, click the Run button on the lower right hand corner of your workspace. Expanding the the logger will show progress and ```...task completed successfully``` when the execution is finished. 
+To run **iSolve** on the mapped file input, click the ```Run``` button on the lower right hand corner of your workspace. Expanding the the **Logger** window will show progress and 
+```
+...task completed successfully
+``` 
+when the execution is finished. 
 
 The following short video shows:
 1. Creating a *File Picker* service to upload a file
