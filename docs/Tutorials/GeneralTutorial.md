@@ -8,7 +8,7 @@ Before beginning the tutorial, you will need to download an **HDF5** file [here]
 2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the **File Picker** service.
 3. Access the service options by double-clicking the **File Picker**.
 4. Click the ```Add File(s)``` button on the bottom right hand corner of the options.
-5. In the popup file browser, choose the *input.h5* file you have downloaded. 
+5. In the popup file browser, choose the *isolve_input.h5* file you have downloaded. 
 6. Click on the output port of ```out``` of the **File Picker** and with the mouse button held, drag and drop the arrow somewhere in the empty space of the pipleine workspace. A **Service Catalog** should appear.
 7. From the **Service Catalog** find the **isolve** service card and double click on it to add it to your workbench.
 8. The **File Picker** and **isolve** services should now be connected from **File Picker** ```out``` to **isolve** ```in``` with a dotted arrow, meaning that the file mapping between the services is not complete. To resolve this, double-click on the **isolve** service, which will bring you to the service's options.
@@ -32,5 +32,5 @@ We can save this pipeline as a template so that when you would like to run **iso
 20. The template will now appear as a **Template Study** in your **Discover** tab. 
 
 
-
-![isolvein](../../_media/isolveinput.gif)
+The following video shows steps 1-9
+![isolvein](../_media/isolveinput.gif)
