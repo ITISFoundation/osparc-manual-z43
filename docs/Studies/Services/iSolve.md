@@ -9,7 +9,7 @@ The **HDF5** input file must be mapped to the input of the iSolve service by con
 To run iSolve on the mapped file input, click the Run button on the lower right hand corner of your workspace. Expanding the the logger will show progress and ```...task completed successfully``` when the execution is finished. 
 
 The following short video shows:
-1. Creating a File Picker service to upload a file
+1. Creating a *File Picker* service to upload a file
 2. Uploading a file from your local computer
 3. Mapping the file to the iSolve input field
 4. Running the pipeline
