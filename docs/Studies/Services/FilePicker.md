@@ -11,7 +11,7 @@ Drag and drop a file from your local file browser onto the workspace of your stu
 
 ### Alternatively
 1. Create the service by double-click any empty area in the workspace and choose the File Picker
-2. Enter the service options by double-clicking the **File Picker**
+2. Access the service options by double-clicking the **File Picker**
 3. Click the ```Add File``` button on the bottom right hand corner of the options
 4. Choose a file from your local computer
 
