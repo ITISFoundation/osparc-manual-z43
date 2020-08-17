@@ -1,2 +1,0 @@
-# Markdown Files <img src="docs/Images/markdown.png" alt="drawing" width="25"/>
-To create a new markdown file, click the "Markdown File" icon in the main window under the heading "Other".  For more information regarding markdown file usage and syntax, see: :link: [Markdown Guide](https://www.markdownguide.org/basic-syntax/).

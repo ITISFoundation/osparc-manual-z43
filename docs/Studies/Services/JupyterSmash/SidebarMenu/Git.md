@@ -1,2 +1,2 @@
-# Git Tool <img src="docs/Images/gitbutton.png" alt="drawing" width="25"/>
+# Git Tool <img src="docs/_media/gitbutton.png" alt="drawing" width="25"/>
 See the documentation for Jupyter Octave+Python Math notebooks :link: [Git](docs/Studies/Services/JupyterOctavePythonMath/SidebarMenu/Git.md) 

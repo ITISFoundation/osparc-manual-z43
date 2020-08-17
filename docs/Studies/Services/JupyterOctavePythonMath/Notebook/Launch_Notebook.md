@@ -1,5 +1,0 @@
-# Launch a New Notebook <img src="docs/Images/notebook.png" alt="drawing" width="25"/>
-In the main window of your service under the heading "Notebook", you will find the option to either create a new "python (maths)" or "Octave" jupyter notebook instance (by clicking either icon).  Launching a notebook will automatically open a new untitled study in your service's main window, and start a new python/octave kernel to run your scripts.  
-
-## Changing the Kernel
-To change the kernel associated to a given notebook, double click the notebook in the file tree on the left to ensure it is being actively viewed in the main window.  Then, select "Kernel" from the menu at the top of the page and choose "Change Kernel...".  This will open a window with a dropdown menu containing alternative kernel options. 

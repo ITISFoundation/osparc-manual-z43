@@ -14,13 +14,13 @@
 
   * Services
       * [Service Basics](Studies/Services/Service)
-      * Jupyter Labs
+      * JupyterLabs
+        * [JupyterLab Services](Studies/Services/JupyterLab/JupyterLabs.md)
         * [Inputs and Outputs](Studies/Services/JupyterOctavePythonMath/InputOutput.md)
-        * Jupyter Octave + Python
+        * Sidebar Options
           * [File Tree](Studies/Services/JupyterOctavePythonMath/SidebarMenu/FileTree.md)
           * [Run](Studies/Services/JupyterOctavePythonMath/SidebarMenu/Run.md)
           * [Git Integration](Studies/Services/JupyterOctavePythonMath/SidebarMenu/Git.md)
-        * Jupyter Smash
       * [iSolve](Studies/Services/iSolve.md)
       * [File Picker](Studies/Services/FilePicker.md)
 

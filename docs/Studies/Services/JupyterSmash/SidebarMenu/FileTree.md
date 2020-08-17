@@ -1,2 +1,2 @@
-# File Tree <img src="docs/Images/folder.png" alt="drawing" width="25"/>
+# File Tree <img src="docs/_media/folder.png" alt="drawing" width="25"/>
 See the documentation for Jupyter Octave+Python Math notebooks :link: [FileTree](docs/Studies/Services/JupyterOctavePythonMath/SidebarMenu/FileTree.md) 
