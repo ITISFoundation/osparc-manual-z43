@@ -4,7 +4,7 @@
 
   * [Introduction](README.md)
 
-* UI Elements
+* Getting Started
 
   * [Dashboard Basics](Dashboard.md)
   * Dashboard Tabs
