@@ -3,8 +3,8 @@ The **File Picker** service is one that allows you to upload files onto the onli
 
 ## Usage
 
-To use this service in your study:
-Drag and drop a file from your local file browser onto the workspace of your study - the file will be automatically uploaded into a **File Picker** service.
+One way to use this service is:
+1. Drag and drop a file from your local file browser onto the workspace of your study - the file will be automatically uploaded into a **File Picker** service.
 
 ![FilePick1](../../_media/filepick2.gif)
 
