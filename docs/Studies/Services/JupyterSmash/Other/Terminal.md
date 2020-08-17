@@ -1,0 +1,2 @@
+# Terminal <img src="docs/Images/terminal.png" alt="drawing" width="25"/>
+See the documentation for Jupyter Octave+Python Math notebooks :link: [Terminal](docs/Studies/Services/JupyterOctavePythonMath/Other/Terminal.md) 
