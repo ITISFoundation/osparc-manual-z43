@@ -16,12 +16,13 @@
       * [Service Basics](Studies/Services/Service)
       * JupyterLabs
         * [JupyterLab Services](Studies/Services/JupyterLab/JupyterLabs.md)
-        * [Inputs and Outputs](Studies/Services/JupyterOctavePythonMath/InputOutput.md)
+        * [Inputs and Outputs](Studies/Services/JupyterLab/InputOutput.md)
         * Sidebar Options
-          * [File Tree](Studies/Services/JupyterOctavePythonMath/SidebarMenu/FileTree.md)
-          * [Run](Studies/Services/JupyterOctavePythonMath/SidebarMenu/Run.md)
-          * [Git Integration](Studies/Services/JupyterOctavePythonMath/SidebarMenu/Git.md)
-      * [iSolve](Studies/Services/iSolve.md)
+          * [File Tree](Studies/Services/JupyterLab/SidebarMenu/FileTree.md)
+          * [Run](Studies/Services/JupyterLab/SidebarMenu/Run.md)
+          * [Git Integration](Studies/Services/JupyterLab/SidebarMenu/Git.md)
+        * [Launcher Options](Studies/Services/JupyterLab/Launcher.md)
+      * [isolve](Studies/Services/iSolve.md)
       * [File Picker](Studies/Services/FilePicker.md)
 
 * Tutorials
@@ -30,9 +31,9 @@
 
 * Frequently Used Operations
   * [Creating a Service in a Study](GeneralUsage/createservice.md)
-  * [Mapping Inputs between Services](GeneralUsage/MapInputs.md)
+  * [Mapping Inputs Between Services](GeneralUsage/MapInputs.md)
   * [Sharing or Publishing a Study](GeneralUsage/sharestudy.md)
-  * [Adding Classifier to Your Study](GeneralUsage/adaptscripts.md)
+  * [Adding a Classifier to a Study](GeneralUsage/adaptscripts.md)
   * [Importing Sim4Life Scripts](GeneralUsage/adaptscripts.md)
 
 * [Glossary](Glossary.md)
