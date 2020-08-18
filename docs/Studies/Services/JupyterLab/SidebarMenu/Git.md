@@ -18,6 +18,6 @@ Pushing changes will merge your changes to the git.speag.com repository availabl
 At the top left of the page, click the cloud icon with the downward pointing arrow <img src="../../../../_media/pull.png" alt="drawing" width="25"/> to pull any changes from the online git repository and merge them with the changes that you have in your JupyterLab instance.  You will be prompted for you git credentials. 
 
 ## Further Reading
-For a well-written tutorial using the JupyterLab Git tools, refer [here](https://annefou.github.io/jupyter_publish/02-git/index.html)
-For a guide to using Git in the Terminal,refer [here](https://rogerdudler.github.io/git-guide/)
+* For a well-written tutorial using the JupyterLab Git tools, refer [here](https://annefou.github.io/jupyter_publish/02-git/index.html)
+* For a guide to using Git in the Terminal,refer [here](https://rogerdudler.github.io/git-guide/)
 
