@@ -8,10 +8,10 @@ The original tutorial can be found [here](https://git.speag.com/simphony/Tutoria
 Before beginning the tutorial, you will need to download an iPython notebook containing the parallel plate tutorial [here](https://git.speag.com/oSparc/z43-manual/-/blob/master/docs/Tutorials/services_jupyter-smash_tests_integration_assets_tutorial_emlf_parallel_plate.ipynb).
 1. Create a new study by clicking the ```Empty Study``` card in the **Studies** tab of your **Dashboard**.
 2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the **Jupyter Smash** service.
-3. Double click on the newly-created **Jupyter Smash** service to access the Jupyter Lab UI.
+3. Double click on the newly-created **Jupyter Smash** service to access the JupyterLab UI.
 4. On the side panel of the UI, click on the ```Upload Files``` icon <img src="../_media/uparrow.png" alt="drawing" width="25"/>.
 5. Browse to where you have downloaded the tutorial notebook, choose it and click ```Open```
-6. The notebook should now be uploaded into the Jupyter lab and visible in the Jupyter Lab sidebar under the File tab <img src="../_media/folder.png" alt="drawing" width="20"/>. Double click on the file to open it.
+6. The notebook should now be uploaded into the JupyterLab and visible in the JupyterLab sidebar under the File tab <img src="../_media/folder.png" alt="drawing" width="20"/>. Double click on the file to open it.
 7. The code is divided into sections based on the Sim4Life workflow steps. To execute each section of code, click that section and press the ```Run the selected cells and advance``` button <img src="../_media/play1.png" alt="drawing" width="25"/> on the notebook options menu on the top of the notebook window. 
 8. When you are finished running the tutorial, save your results. 
 9. Go back to your **Dashboard** by clicking on ``Dashboard`` at the very top left of the screen.

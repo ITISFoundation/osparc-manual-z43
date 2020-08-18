@@ -1,7 +1,7 @@
 # Glossary
 
 
-**Service:** a building block for a project - services can provide data/files, visualize results (2D, 3D), implement code in Jupyter Labs or perform computations to execute simulations within a study.
+**Service:** a building block for a project - services can provide data/files, visualize results (2D, 3D), implement code in JupyterLabs or perform computations to execute simulations within a study.
 
 **Study:** a project on the online platform where you can build your workflow with **Services**.
 

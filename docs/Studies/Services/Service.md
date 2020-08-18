@@ -1,6 +1,6 @@
 # Service
 
-A service is a building block for a study project - services can provide data/files, visualize results (2D, 3D), implement code in Jupyter Labs or perform computations to execute simulations within a study. 
+A service is a building block for a study project - services can provide data/files, visualize results (2D, 3D), implement code in JupyterLabs or perform computations to execute simulations within a study. 
 
 Every service has its own options that can be accessed by double-clicking on it. Services such as the [JupyterLab-based services](JupyterLab/JupyterLabs.md) have extensive GUI interfaces while others such as [iSolve](iSolve.md) only have input fields. that can be accessed. 
 
