@@ -17,6 +17,15 @@ Pushing changes will merge your changes to the git.speag.com repository availabl
 **Pulling** <img src="../../../../_media/pull.png" alt="drawing" width="25"/>
 At the top left of the page, click the cloud icon with the downward pointing arrow <img src="../../../../_media/pull.png" alt="drawing" width="25"/> to pull any changes from the online git repository and merge them with the changes that you have in your JupyterLab instance.  You will be prompted for you git credentials. 
 
+The following video demonstrates:
+1) cloning a git repository
+2) creating and staging a new file
+3) committing the file with a message
+4) changing the file after commit
+5) pushing to the repository
+
+![Git_Demo](../../../../_media/gitdemo.gif)
+
 ## Further Reading
 * For a well-written tutorial using the JupyterLab Git tools, refer [here](https://annefou.github.io/jupyter_publish/02-git/index.html).
 * For a guide to using Git in the Terminal, refer [here](https://rogerdudler.github.io/git-guide/).
