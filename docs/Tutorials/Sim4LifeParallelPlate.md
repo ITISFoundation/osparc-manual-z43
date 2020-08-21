@@ -13,11 +13,12 @@ Before beginning the tutorial, you will need to download an iPython notebook con
 5. Browse to where you have downloaded the tutorial notebook, choose it and click ```Open```
 6. The notebook should now be uploaded into the JupyterLab and visible in the JupyterLab sidebar under the File tab <img src="../_media/folder.png" alt="drawing" width="20"/>. Double click on the file to open it.
 7. The code is divided into sections based on the Sim4Life workflow steps. To execute each section of code, click that section and press the ```Run the selected cells and advance``` button <img src="../_media/play1.png" alt="drawing" width="25"/> on the notebook options menu on the top of the notebook window. 
-8. When you are finished running the tutorial, save your results. 
-9. Go back to your **Dashboard** by clicking on ``Dashboard`` at the very top left of the screen.
-10. Your study is currently named with the default *New Study* name but you can rename it to something more appropriate by clicking on the three dots on the top right of the study's card, and selecting ```More Info```. In the popup, click the ```Edit``` button on the bottom. 
-11. Rename the study and provide a nice description if you like. The **Thumbnail**  field accepts URL's for images. When you are done, click ```Save```.
-12. You may now share your study if you wish, by again accessing the study options by clicking on the three dots on the upper right hand corner of the study's card, and selecting ```Permissions```. In the ```Members``` dropdown button, you may choose your best friend at Z43 to share your wonderful new study with. If you click ```Add```, your study will appear on their **Dashboard** on the **Studies** tab. 
+8. When you arrive at any rendering cell, you may click the refresh button in order to interact with the embedded viewer (e.g. zoom, pan, rotate)
+9. When you are finished running the tutorial, save your results. 
+10. Go back to your **Dashboard** by clicking on ``Dashboard`` at the very top left of the screen.
+11. Your study is currently named with the default *New Study* name but you can rename it to something more appropriate by clicking on the three dots on the top right of the study's card, and selecting ```More Info```. In the popup, click the ```Edit``` button on the bottom. 
+12. Rename the study and provide a nice description if you like. The **Thumbnail**  field accepts URL's for images. When you are done, click ```Save```.
+13. You may now share your study if you wish, by again accessing the study options by clicking on the three dots on the upper right hand corner of the study's card, and selecting ```Permissions```. In the ```Members``` dropdown button, you may choose your best friend at Z43 to share your wonderful new study with. If you click ```Add```, your study will appear on their **Dashboard** on the **Studies** tab. 
 
 The following video shows steps 1-6
 ![createsmash](../_media/startsmash.gif)
