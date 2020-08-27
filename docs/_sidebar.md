@@ -27,6 +27,6 @@
   * [Creating a Service in a Study](GeneralUsage/createservice.md)
   * [Mapping Inputs Between Services](GeneralUsage/MapInputs.md)
   * [Sharing or Publishing a Study](GeneralUsage/sharestudy.md)
-  * [Adding a Classifier to a Study](GeneralUsage/adaptscripts.md)
+  * [Adding a Classifier to a Study](GeneralUsage/Classifiers.md)
   * [Importing Sim4Life Scripts](GeneralUsage/adaptscripts.md)
 * [Glossary](Glossary.md)
