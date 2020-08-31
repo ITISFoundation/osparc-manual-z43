@@ -9,9 +9,11 @@ If you would like to run your Sim4Life scripts on the online platform, you will 
     ```
     %load python_file_name.py
     ```
-2. In your newly imported script, enable the 3D viewer of the model you have set up, you must add another line to import the viewer module: 
+2. In your newly imported script, you must add two more lines to import the viewer module (to enable the 3D viewer of your model) and various setup functions: 
     ```
     from z43_scene_viewer import Viewer
+    from s4l_v1._api.application import run_application, get_app_safe, print_app_info
+
     ```
 3. To initialize the project, you must include the following code snippet into the python notebook before you begin setting up the model: 
     ```
