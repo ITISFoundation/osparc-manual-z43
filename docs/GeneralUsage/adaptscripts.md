@@ -33,5 +33,5 @@ If you would like to run your Sim4Life scripts on the online platform, you will 
     ```
     jupyter nbconvert --to script your_notebook_name.ipynb
     ```
-    
+    * Be warned that any changes specific to Jupyter Smash (e.g. importing 3D viewers, s4l_v1.api usage, hardcoded paths, etc.) for Jupyter Smash will also be translated into your ```.py``` script. Hence, be sure to change/remove these parts before you intend to run it in Sim4Life.
 
