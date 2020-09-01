@@ -5,4 +5,9 @@ Welcome to Z43's online platform for code storage and execution! The purpose of 
 * __Executed__: requiring no installations and using shared computational resources
 * __Organized__: findable and reusable by other Z43 members 
 
+### Quick Start
+Register yourself with your Z43 email (i.e. ______@speag/zmt/itis.swiss) at: **https://osparc.speag.com**
+
+Then, get started with one of our [Tutorials](Tutorials/Sim4LifeParallelPlate.md)
+
 ![panda](_media/computer_panda.png)

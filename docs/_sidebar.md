@@ -2,7 +2,7 @@
 
 * Welcome
   * [Introduction](README.md)
-* Getting Started
+* UI Basics
   * [Dashboard Basics](Dashboard.md)
   * Dashboard Tabs
     * [Studies](Studies/Studies.md)
