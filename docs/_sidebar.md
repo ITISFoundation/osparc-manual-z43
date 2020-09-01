@@ -29,4 +29,5 @@
   * [Sharing or Publishing a Study](GeneralUsage/sharestudy.md)
   * [Adding a Classifier to a Study](GeneralUsage/Classifiers.md)
   * [Importing Sim4Life Scripts](GeneralUsage/adaptscripts.md)
+* [Sim4Life Modules Available](s4lalgos.md)
 * [Glossary](Glossary.md)
