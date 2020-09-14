@@ -24,6 +24,12 @@ Serving /Users/pcrespo/devp/z43-manual/docs now.
 Listening at http://localhost:3000
 ```
 
+Pushing changes [first time use] 
+```console
+$ make git-setup-origin-remotes
+```
+This makes sure changes get puhed to both Github (from which docs are served) and Gitlab repositories.
+
 Chance the markdown and [index.html](docs/index.html) under [docs](./docs) following [docsify] doc.
 
 ---
