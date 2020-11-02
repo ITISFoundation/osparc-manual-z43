@@ -3,7 +3,7 @@
 We offer two JupyterLab flavors for the Z43 community based on the needs of our colleagues. 
 
 ## Jupyter Smash
-*Jupyter Smash* offers a ```smash (master)``` kernel which provides a Python interface with preinstalled Sim4Life modules. This service is meant to allow you to run your Sim4Life Python scripts directly on the online platform with only minor changes (see [Adpating Sim4Life Scripts](../../../GeneralUsage/adaptscripts.md)). A full tutorial using this service is described separately [here](.../../../Tutorials/Sim4LifeParallelPlate.md).
+*Jupyter Smash* offers a ```smash (master)``` kernel which provides a Python interface with preinstalled Sim4Life modules. This service is meant to allow you to run your Sim4Life Python scripts directly on the online platform with only minor changes (see [Adpating Sim4Life Scripts](../../GeneralUsage/adaptscripts.md)). A full tutorial using this service is described separately [here](../../Tutorials/Sim4LifeParallelPlate.md).
 
 ## Jupyter Octave+Python Math
 This service gives you a choice of creating notebooks with either Octave or Python. The ```Python (maths)``` kernel has preinstalled modules for mathematical modeling and data analysis. The full list of preinstalled packages is available [here](https://git.speag.com/oSparc/sparc-internal/-/blob/master/services/jupyter-octave-python-math/kernels/python-maths/requirements.txt).
