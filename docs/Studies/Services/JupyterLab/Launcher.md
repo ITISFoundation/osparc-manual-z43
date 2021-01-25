@@ -47,5 +47,10 @@ to add/remove, respectively.
 ## Text Files ![drawing](../../../_media/textfile.png ':size=25:')
 To create a new text file, click the "Text File" icon in the main window under the heading "Other".  
 
+### LaTeX Integration
+Our JupyterLabs offer the ability to create LaTeX documents with rendering previews. To use this feature, name a text file with the ```.tex``` file extension. Then, right click within the text file anc choose ```Show LaTeX Preview``` to see your document rendered in a PDF file. More information about the extension can be found at https://github.com/jupyterlab/jupyterlab-latex.
+
+![LaTeX](../../../_media/latex.png)
+
 ## Markdown Files ![drawing](../../../_media/markdown.png ':size=25:')
 To create a new markdown file, click the "Markdown File" icon in the main window under the heading "Other".  For more information regarding markdown file usage and syntax, see: :link: [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
