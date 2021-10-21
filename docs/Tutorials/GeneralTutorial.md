@@ -9,7 +9,7 @@ In this tutorial, you will learn the basics of setting up a study pipeline on th
 1. Create a new study by clicking the Empty Study card in the **Studies** tab of your **Dashboard** which will create and open the new study where you will see the pipeline workspace.
 2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the *File Picker* service.
 3. Access the service options by double-clicking the *File Picker*.
-4. Click the ![upload](https://cdn-icons.flaticon.com/png/512/1824/premium/1824903.png?token=exp=1634739078~hmac=9e860f5263704ed8f17eecd9d8d21de8 ":size=4%")```Upload``` button on the bottom right hand corner of the options.
+4. Click the ```Upload``` button on the bottom right hand corner of the options.
 5. In the popup file browser, choose the *isolve_input.h5* file you have downloaded. 
 6. Click on the output port of the *File Picker* and with the mouse button held, drag and drop the arrow somewhere in the empty space of the pipeline workspace. A **Service Catalog** should appear.
 7. From the **Service Catalog** find the **isolve** service card and double click on it to add it to your workbench.

@@ -12,7 +12,7 @@ One way to use this service is:
 ### Alternatively
 1. Create the service by double-click any empty area in the workspace and choose the File Picker
 2. Access the service options by double-clicking the *File Picker*
-3. Click the ![upload](https://cdn-icons.flaticon.com/png/512/1824/premium/1824903.png?token=exp=1634739078~hmac=9e860f5263704ed8f17eecd9d8d21de8 ":size=4%")```Upload``` button on the bottom right hand corner of the options
+3. Click the ```Upload``` button on the bottom right hand corner of the options
 4. Choose a file from your local computer
 
 ![FilePick2](https://user-images.githubusercontent.com/28002886/137344873-6c101297-b228-4014-be65-f81c9aa63fb1.png)
