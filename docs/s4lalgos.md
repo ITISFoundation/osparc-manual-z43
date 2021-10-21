@@ -1,6 +1,7 @@
 
 # Currently available in Jupyter Smash & isolve
 
+## Algorithms
 ```
 0 10g Avg-E(RMS) [ISO/TS 10974]
 1 Rectilinear Grid Extractor
@@ -132,11 +133,15 @@
 127 Spherical Field Viewer
 128 Volume Rendering
 129 Streamline Viewer
+```
 
-Modeler
+## Modeler
+```
 All except mesher
+```
 
-Solvers (structured)
+## Solvers (structured)
+```
 EM LF + Gridder + voxeler
 EM FDTD + Gridder + voxeler
 ```

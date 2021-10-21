@@ -13,3 +13,5 @@ To delete a study, select it by either clicking on the service module in the pip
 The following video demonstrates creating and deleting a service.
 
 ![createdelete](../../_media/createdeleteserve.gif)
+
+

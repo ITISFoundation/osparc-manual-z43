@@ -1,25 +1,17 @@
 <!-- _sidebar.md -->
 
-* Welcome
-  * [Introduction](README.md)
-* UI Basics
-  * [Dashboard Basics](Dashboard.md)
-  * Dashboard Tabs
-    * [Studies](Studies/Studies.md)
-    * [Data](Data.md)
-    * [Discover](Discover.md)
-  * Services
-      * [Service Basics](Studies/Services/Service)
-      * JupyterLabs
-        * [JupyterLab Services](Studies/Services/JupyterLab/JupyterLabs.md)
-        * [Inputs and Outputs](Studies/Services/JupyterLab/InputOutput.md)
-        * Sidebar Options
-          * [File Tree](Studies/Services/JupyterLab/SidebarMenu/FileTree.md)
-          * [Run](Studies/Services/JupyterLab/SidebarMenu/Run.md)
-          * [Git Integration](Studies/Services/JupyterLab/SidebarMenu/Git.md)
-        * [Launcher Options](Studies/Services/JupyterLab/Launcher.md)
-      * [isolve](Studies/Services/iSolve.md)
-      * [File Picker](Studies/Services/FilePicker.md)
+* [Welcome](README.md)
+* [UI Basics](Dashboard.md)
+  * [Studies](Studies/Studies.md)
+  * [Data](Data.md)
+  * [Discover](Discover.md)
+* [Services](Studies/Services/Service)
+  * [File Picker](Studies/Services/FilePicker.md)
+  * [JupyterLab Services](Studies/Services/JupyterLab/JupyterLabs.md)
+    * [Launcher Options](Studies/Services/JupyterLab/Launcher.md)
+    * [Inputs and Outputs](Studies/Services/JupyterLab/InputOutput.md)
+    * [Sidebar Options](Studies/Services/JupyterLab/Sidebar.md)
+  * [isolve](Studies/Services/iSolve.md)
 * Tutorials
   * [General Tutorial](Tutorials/GeneralTutorial.md)
   * [Sim4Life Parallel Plate](Tutorials/Sim4LifeParallelPlate.md)

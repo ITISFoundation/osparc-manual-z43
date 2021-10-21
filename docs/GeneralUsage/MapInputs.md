@@ -16,4 +16,4 @@ In order to make files from one service available in another, the output of the 
 
 The following short video shows linking and unlinking of service inputs/outputs.
 
-![link](../_media/linking.gif)
+![link](../_media/servicelinking.gif)

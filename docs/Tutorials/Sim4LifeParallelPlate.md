@@ -7,11 +7,13 @@ The original tutorial can be found [here](https://git.speag.com/simphony/Tutoria
 ## Steps
 
 ![createsmash](../_media/startsmash.gif)
+
 You may download this video for easier viewing [here](https://git.speag.com/oSparc/z43-manual/-/blob/master/docs/_media/startsmash.mp4)
 1. Create a new study by clicking the ```Empty Study``` card in the **Studies** tab of your **Dashboard**.
 2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the **Jupyter Smash** service.
 3. Double click on the newly-created **Jupyter Smash** service to access the JupyterLab UI.
-4. On the side panel of the UI, click on the ```Upload Files``` icon ![drawing](../_media/uparrow.png ':size=25:').
+4. On the left side panel of the UI, click on the ```Upload Files``` button.
+![upload](https://user-images.githubusercontent.com/28002886/138113324-2341ec8b-8358-4d6c-a371-d8a1933ca420.png ":size=50%")
 5. Browse to where you have downloaded the tutorial notebook, choose it and click ```Open```
 6. The notebook should now be uploaded into the JupyterLab and visible in the JupyterLab sidebar under the File tab ![drawing](../_media/folder.png ':size=20:'). Double click on the file to open it.
 7. The code is divided into sections based on the Sim4Life workflow steps. To execute each section of code, click that section and press the ```Run the selected cells and advance``` button ![drawing](../_media/play1.png ':size=25:') on the notebook options menu on the top of the notebook window. 

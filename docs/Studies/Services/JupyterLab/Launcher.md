@@ -1,5 +1,5 @@
 # Launcher
-
+![jop](../../../_media/jop.png)
 ## Notebook ![drawing](../../../_media/notebook.png ':size=25:')
 In the main window of your service under the heading "Notebook", you will find the option to either create a new "python (maths)" or "Octave" jupyter notebook instance (by clicking either icon).  Launching a notebook will automatically open a new untitled study in your service's main window, and start a new python/octave kernel to run your scripts.  
 

@@ -10,6 +10,6 @@ To download files:
 1. Select the file you would like to download
 2. Click the download button at the very bottom of the window
 
-**Pro Tip:** you may need to click the ```Reload``` button if the file has very recently been generated or modified
+**Pro Tip:** you may need to click the ```Reload``` button on the upper left hand corner of the Data tab if the file has very recently been generated or modified
 
-![download](_media/datadownload.gif)
+![download](https://user-images.githubusercontent.com/28002886/137333179-46ec8f86-369b-4e1d-b7cb-19fbe16ffe8c.png)

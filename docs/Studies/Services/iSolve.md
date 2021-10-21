@@ -12,15 +12,13 @@ To run *isolve* on the mapped file input, click the ```Run``` button on the lowe
 ``` 
 when the execution is finished. 
 
-The following short video shows:
-1. Creating a *File Picker* service to upload a file
-2. Uploading a file from your local computer
-3. Mapping the file to the *isolve* input field
-4. Running the pipeline
+One example workflow would be:
+1. Uploading a file from your local computer (see [here](Studies/Services/FilePicker.md))
+2. Mapping the file to the *isolve* input field
+3. Running the pipeline
 
 ![isolvein](../../_media/isolveinput.gif)
 
 ## Outputs
-The output of the *isolve* service is another **HDF5** file that can be imported into Sim4Life for Postprocessing. You may download the file by entering the *isolve* service (double-clicking on the service) and clicking on the ```Files``` button on the upper menu bar. 
-
-![isolveout](../../_media/isolveoutput.gif)
+The output of the *isolve* service is another **HDF5** file that can be imported into Sim4Life for Postprocessing. You may download the file by entering the *isolve* service (double-clicking on the service) and clicking on the ```Output Files``` button on the upper menu bar. 
+![outputs](https://user-images.githubusercontent.com/28002886/138123514-1d36c716-cc55-4d4d-8b6a-3e38e28beded.png)
