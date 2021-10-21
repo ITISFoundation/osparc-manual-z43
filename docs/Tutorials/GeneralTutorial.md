@@ -1,12 +1,12 @@
 # Basic Tutorial: Platform Functionality
 
-In this tutorial, you will learn the basics of setting up a study pipeline on the online platform, uploading files linking services together and executing the study. Before beginning the tutorial, you will need to download an **HDF5** file [**here**](https://git.speag.com/oSparc/z43-manual/-/blob/master/docs/Tutorials/isolve_input.h5 ).
+In this tutorial, you will learn the basics of setting up a study pipeline on the online platform, uploading files linking services together and executing the study. Before beginning the tutorial, you will need to download an **HDF5** file [**here**](https://github.com/ITISFoundation/osparc-manual-z43/raw/master/docs/Tutorials/isolve_input.h5).
 
 ## Steps
 
 ![isolvein](../_media/isolveinput.gif)
-You may download this video for easier viewing [here](https://git.speag.com/oSparc/z43-manual/-/blob/master/docs/_media/isolvetutorial.mp4)
-1. Create a new study by clicking the Empty Study card in the **Studies** tab of your **Dashboard**.
+
+1. Create a new study by clicking the Empty Study card in the **Studies** tab of your **Dashboard** which will create and open the new study where you will see the pipeline workspace.
 2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the *File Picker* service.
 3. Access the service options by double-clicking the *File Picker*.
 4. Click the ![upload](https://cdn-icons.flaticon.com/png/512/1824/premium/1824903.png?token=exp=1634739078~hmac=9e860f5263704ed8f17eecd9d8d21de8 ":size=4%")```Upload``` button on the bottom right hand corner of the options.
@@ -17,7 +17,7 @@ You may download this video for easier viewing [here](https://git.speag.com/oSpa
 9. From the **Input** column, there should be a *isolve_input.h5* object, which is coming from the *File Picker* in the input field of the isolve options, labeled ```input_file```. 
 10. Return to the study's workbench by clicking on the button with name of the study, located at the very top of your window (by default this button will be ```New Study```). 
 11. At the top right hand corner, click on the ```Run``` button to execute the pipeline. 
-12. Expand the **Logger** subwindow (if collapsed) on the left side of the screen by clicking the right-facing chevron. When the pipeline is finished, you will see the message: 
+12. Expand the **Logger** subwindow (if collapsed) on the bottom left of the screen by clicking the chevron icon. When the pipeline is finished, you will see the message (it takes a few minutes to run, so be patient): 
 ```
 ...task completed successfully
 ``` 
