@@ -5,6 +5,7 @@ Welcome to Z43's online platform for code storage and execution! The purpose of 
 * __Executed__: requiring no installations and using shared computational resources
 * __Organized__: findable and reusable by other Z43 members 
 
+This documentation page is an extension of our [Primary Documentation](http://docs.osparc.io) where you can find more detailed explanations of various features.
 ### Quick Start
 Register yourself with your Z43 email (i.e. ______@speag/zmt/itis.swiss) at: **https://osparc.speag.com**
 
