@@ -3,7 +3,7 @@ image: alpine:latest
 pages:
   stage: deploy
   tags:
-    - ubuntu_DOCKER
+    - DOCKER_modern
   script:
     - cp -r docs .public
     - mv .public public
