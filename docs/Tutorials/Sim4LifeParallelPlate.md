@@ -4,23 +4,27 @@ One of the first tutorials in the Sim4Life manual is a project applying the Elec
 
 The original tutorial can be found [here](https://git.speag.com/simphony/Tutorials/-/tree/master/tutorials). We provide a slightly modified one for the online platform. To learn more about how to translate your Sim4Life scripts to work with the **Jupyter Smash** service, see [Adapting Sim4Life scripts to Jupyter Smash](GeneralUsage/adaptscripts.md)
 
+If you are not familiar with the platform, you can have a look to the [General Tutorial](Tutorials/GeneralTutorial.md) and/or get an overview of the platform [here](platform_introduction/platform.md).
+
 ## Steps
 
 ![createsmash](../_media/startsmash.gif)
 
 You may download this video for easier viewing [here](https://github.com/ITISFoundation/osparc-manual-z43/raw/master/docs/_media/startsmash.mp4).
 1. Create a new study by clicking the ```Empty Study``` card in the **Studies** tab of your **Dashboard**.
-2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the **Jupyter Smash** service.
-3. Double click on the newly-created **Jupyter Smash** service to access the JupyterLab UI.
+2. Double click anywhere in the empty space in your pipeline workspace to access the **Service Catalog** and click on the **JupyterLab sim4life** service.
+3. Double click on the newly-created **JupyterLab sim4life** service to access the JupyterLab UI.
 4. On the left side panel of the UI, click on the ```Upload Files``` button.
 ![upload](https://user-images.githubusercontent.com/28002886/138113324-2341ec8b-8358-4d6c-a371-d8a1933ca420.png ":size=50%")
-5. Browse to where you have downloaded the tutorial notebook, choose it and click ```Open```
+5. Browse to where you have downloaded the tutorial notebook, choose it and click ```Open```.
 6. The notebook should now be uploaded into the JupyterLab and visible in the JupyterLab sidebar under the File tab ![drawing](../_media/folder.png ':size=20:'). Double click on the file to open it.
 7. The code is divided into sections based on the Sim4Life workflow steps. To execute each section of code, click that section and press the ```Run the selected cells and advance``` button ![drawing](../_media/play1.png ':size=25:') on the notebook options menu on the top of the notebook window. 
-8. When you arrive at any rendering cell, you may click the refresh button in order to interact with the embedded viewer (e.g. zoom, pan, rotate)
-9. When you are finished running the tutorial, save your results. 
+8. When you arrive at any rendering cell, you may click the refresh button in order to interact with the embedded viewer (e.g. zoom, pan, rotate).
+9. When you are finished running the tutorial, save your results, by clicking on the save button.
 10. Go back to your **Dashboard** by clicking on ``Dashboard`` at the very top left of the screen.
-11. Your study is currently named with the default *New Study* name but you can rename it to something more appropriate by clicking on the three dots on the top right of the study's card, and selecting ```More Info```. In the popup, click the ```Edit``` button on the bottom. 
-12. Rename the study and provide a nice description if you like. The **Thumbnail**  field accepts URL's for images. When you are done, click ```Save```.
-13. You may now share your study if you wish, by again accessing the study options by clicking on the three dots on the upper right hand corner of the study's card, and selecting ```Permissions```. In the ```Members``` dropdown button, you may choose your best friend at Z43 to share your wonderful new study with. If you click ```Add```, your study will appear on their **Dashboard** on the **Studies** tab. 
+11. Your study is currently named with the default *New Study*. You can rename by clicking on the three dots button and selecting ```Rename```.
+12. If can also add a description, with images, etc. Click on the three dots button and then on ```More information```. Click on the Information tab on the left <svg style="width: 10px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M160 448h-32V224c0-17.69-14.33-32-32-32L32 192c-17.67 0-32 14.31-32 32s14.33 31.1 32 31.1h32v192H32c-17.67 0-32 14.31-32 32s14.33 32 32 32h128c17.67 0 32-14.31 32-32S177.7 448 160 448zM96 128c26.51 0 48-21.49 48-48S122.5 32.01 96 32.01s-48 21.49-48 48S69.49 128 96 128z"/></svg>, and then on the Description edit button <svg style="width: 20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M421.7 220.3L188.5 453.4L154.6 419.5L158.1 416H112C103.2 416 96 408.8 96 400V353.9L92.51 357.4C87.78 362.2 84.31 368 82.42 374.4L59.44 452.6L137.6 429.6C143.1 427.7 149.8 424.2 154.6 419.5L188.5 453.4C178.1 463.8 165.2 471.5 151.1 475.6L30.77 511C22.35 513.5 13.24 511.2 7.03 504.1C.8198 498.8-1.502 489.7 .976 481.2L36.37 360.9C40.53 346.8 48.16 333.9 58.57 323.5L291.7 90.34L421.7 220.3zM492.7 58.75C517.7 83.74 517.7 124.3 492.7 149.3L444.3 197.7L314.3 67.72L362.7 19.32C387.7-5.678 428.3-5.678 453.3 19.32L492.7 58.75z"/></svg>.
+You will see the description appearing after you open the Study in the Study Options ([Secondary Colum](platform_introduction/Studies?id=study-workbench])). 
+
+13. You may now share your study if you wish, by again accessing the study options by clicking on the three dots on the upper right hand corner of the study's card, and clicking on the Sharing button <svg style="width: 20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M384 32C419.3 32 448 60.65 448 96V416C448 451.3 419.3 480 384 480H64C28.65 480 0 451.3 0 416V96C0 60.65 28.65 32 64 32H384zM320 96C284.7 96 256 124.7 256 160C256 162.5 256.1 164.9 256.4 167.3L174.5 212C162.8 199.7 146.3 192 128 192C92.65 192 64 220.7 64 256C64 291.3 92.65 320 128 320C146.3 320 162.8 312.3 174.5 299.1L256.4 344.7C256.1 347.1 256 349.5 256 352C256 387.3 284.7 416 320 416C355.3 416 384 387.3 384 352C384 316.7 355.3 288 320 288C304.6 288 290.5 293.4 279.4 302.5L194.1 256L279.4 209.5C290.5 218.6 304.6 224 320 224C355.3 224 384 195.3 384 160C384 124.7 355.3 96 320 96V96z"/></svg>. In the ```Organizations and Members``` dropdown menu, you may choose your best friend at Z43 to share your wonderful new study with. If you click ```Add```, your study will appear on their **Dashboard** on the **Studies** tab. 
 

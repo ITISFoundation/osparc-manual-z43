@@ -9,6 +9,6 @@ This documentation page is an extension of our [Primary Documentation](http://do
 ### Quick Start
 Register yourself with your Z43 email (i.e. ______@speag/zmt/itis.swiss) at: **https://osparc.speag.com**
 
-Then, get started with one of our [Tutorials](Tutorials/Sim4LifeParallelPlate.md)
+Then, get started with one of our [Tutorials](Tutorials/GeneralTutorial.md).
 
 ![panda](_media/computer_panda.png)

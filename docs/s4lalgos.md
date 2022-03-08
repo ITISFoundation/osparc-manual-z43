@@ -1,7 +1,7 @@
 
-# Currently available in Jupyter Smash & isolve
+# Currently available in JupyterLab Sim4Life & isolve Services
 
-## Simulators
+## Simulators and corresponding solver modules in iSolve
 
 - EmFdtSimulator
   - EmFdtdSimulation
@@ -27,153 +27,160 @@
 
 ## Algorithms
 ```
-   0  10g Avg-E(RMS) ISO/TS 10974                                       
-   1  Rectilinear Grid Extractor                                          
-   2  Cumulative Distribution                                             
-   3  CWeightsProducer                                                    
-   4  S Converter                                                         
-   5  mbSAR Evaluator                                                     
-   6  Electric Energy                                                     
-   7  MATCH                                                               
-   8  Text Exporter                                                       
-   9  Model Measures                                                      
-  10  VTK Importer                                                        
-  11  B1(x,y,z,f0) Evaluator                                              
-  12  Gen Field Avg                                                       
-  13  DEV: Iteration Splitter                                             
-  14  Sensor Combiner                                                     
-  15  Power Density Evaluator                                             
-  16  Flux Evaluator                                                      
-  17  Histogram Evaluator                                                 
-  18  Spherical Field Interpolator                                        
-  19  Surface Filter                                                      
-  20  Iterated Data Source                                                
-  21  Filter Iterations                                                   
-  22  Scattering Evaluator                                                
-  23  Selectivity Evaluator                                               
-  24  Simulation Extractor                                                
-  25  Bi-static RCS                                                       
-  26  Data Cache Exporter                                                 
-  27  Electric Loss Density u(x,y,z,f0)                                   
-  28  Simulation Combiner                                                 
-  29  Tangential Field                                                    
-  30  Local SAR Evaluator                                                 
-  31  Multiport Simulation Extractor                                      
-  32  Huygens Exporter                                                    
-  33  VTK Exporter                                                        
-  34  Polarization                                                        
-  35  TX Sim. Comb.                                                       
-  36  Data Source                                                         
-  37  Calculator                                                          
-  38  SIBC Absorption Evaluator                                           
-  39  Port Calculator                                                     
-  40  Data Cache Extractor                                                
-  41  Planar Cut                                                          
-  42  Anis. Conducivity                                                   
-  43  Surface J(x,y,z,f0) Evaluator                                       
-  44  Sensor Combiner                                                     
-  45  Neural sensing                                                      
-  46  To Cell Data                                                        
-  47  Projection Filter                                                   
-  48  Max Modulation                                                      
-  49  Mono-static RCS                                                     
-  50  Radiation Efficiency Evaluator                                      
-  51  MATLAB (R) Exporter                                                 
-  52  B(x,y,z,f0) Evaluator                                               
-  53  Select Iterations                                                   
-  54  Touchstone (R) File Importer                                        
-  55  Volume J(x,y,z,f0)                                                  
-  56  Action Potential Evaluator                                          
-  57  Spikes Evaluator                                                    
-  58  DTI->Conducivity                                                    
-  59  ESD (PREVIEW)                                                       
-  60  Avg-E ICNIRP-2010                                                   
-  61  Maximum Exposure Optimizer                                          
-  62  Avg-E IEEE-95.1-2005                                                
-  63  Max Gain                                                            
-  64  Normal Field                                                        
-  65  Antenna Diversity                                                   
-  66  H(x,y,z,f0) Evaluator                                               
-  67  Current Normalizer                                                  
-  68  Resample Field                                                      
-  69  SAR Statistics                                                      
-  70  To Point Data                                                       
-  71  Extract Snapshot                                                    
-  72  Onion field filter                                                  
-  73  Network Analysis                                                    
-  74  Max/min Intensity Projection                                        
-  75  ARMA Evaluator                                                      
-  76  VTK XML Exporter                                                    
-  77  Interpolator                                                        
-  78  Far Field Transform                                                 
-  79  Port Simulation Extractor                                           
-  80  psSARIEEE/IEC62704-1 Evaluator                                    
-  81  Component Mask Filter                                               
-  82  Extract Slice                                                       
-  83  Field Normalizer                                                    
-  84  Hessian of Electric Potential Evaluator                             
-  85  Sensor Extractor                                                    
-  86  Conducted Power                                                     
-  87  Gamma Comparison Evaluator                                          
-  88  CExporterAlgorithm                                                  
-  89  CMacroAlgorithm                                                     
-  90  Maximum Exposure Optimizer (Multiport)                              
-  91  Aggregate Iterations                                                
-  92  Flux Evaluator                                                      
-  93  Gradient                                                            
-  94  Titration Evaluator                                                 
-  95  ∇ Anis. Conducivity                                                 
-  96  Radiation Evaluator                                                 
-  97  TX Sim. Comb.                                                       
-  98  Radiation Report                                                    
-  99  Far Field Fixture                                                   
- 100  Unstructured Grid Extractor                                         
- 101  Touchstone (R) File Exporter                                        
- 102  TER Evaluator                                                       
- 103  Mask Filter                                                         
- 104  D(x,y,z,f0) Evaluator                                               
- 105  Solver File Extractor                                               
- 106  Avg-J ICNIRP-1998                                                   
- 107  Text Exporter                                                       
- 108  Surface Average IEEE 63195-2                                      
- 109  EXCEL (R) Exporter                                                  
- 110  Simulation Combiner                                                 
- 111  MAGPy Measurement Extractor                                         
- 112  Crop                                                                
- 113  Extract Interval                                                    
- 114  Statistics                                                          
- 115  CEditableMacroAlgorithm                                             
- 116  Field Distribution                                                  
- 117  Array Factor                                                        
- 118  Field Combiner                                                      
- 119  Energy Density u(x,y,z,f0) Evaluator                                
- 120  Extract Scalar                                                      
- 121  Current Extractor                                                   
- 122  Voltage Reader                                                      
- 123  1D Field Filter                                                     
- 124  Min-Max                                                             
- 125  Surface Average                                                     
- 126  Simulator                                                           
- 127  Append Fields                                                       
- 128  Field Scaling                                                       
- 129  S(x,y,z,t) Evaluator                                                
- 130  Magnetic Energy                                                     
- 131  Sensor Extractor                                                    
- 132  Model Source                                                        
- 133  Exposure Ratio Evaluator                                            
- 134  MIP Viewer                                                          
- 135  Streamline Viewer                                                   
- 136  Vector Field Viewer                                                 
- 137  DASY Viewer                                                         
- 138  Plotly                                                              
- 139  Surface Viewer                                                      
- 140  Slice Viewer                                                        
- 141  Iso-Surface                                                         
- 142  Spherical Field Viewer                                              
- 143  Volume Rendering                                                    
- 144  Streamline Viewer  
+  0 10g Avg-E(RMS) [ISO/TS 10974]
+  1 Rectilinear Grid Extractor   
+  2 Cumulative Distribution      
+  3 CWeightsProducer             
+  4 S Converter                  
+  5 mbSAR Evaluator              
+  6 SEM-X Thermal Field Reader   
+  7 MATCH                        
+  8 Text Exporter                
+  9 Model Measures               
+ 10 VTK Importer                 
+ 11 B1(x,y,z,f0) Evaluator       
+ 12 Gen Field Avg                
+ 13 DEV: Iteration Splitter      
+ 14 Sensor Combiner              
+ 15 Power Density Evaluator      
+ 16 Flux Evaluator               
+ 17 Histogram Evaluator          
+ 18 Spherical Field Interpolator 
+ 19 Surface Filter               
+ 20 Iterated Data Source         
+ 21 Filter Iterations            
+ 22 Scattering Evaluator         
+ 23 Selectivity Evaluator        
+ 24 Simulation Extractor         
+ 25 Bi-static RCS                
+ 26 Data Cache Exporter          
+ 27 HW/SW Data Object Exchange Ex
+ 28 Electric Loss Density u(x,y,z
+ 29 Simulation Combiner          
+ 30 Tangential Field             
+ 31 Local SAR Evaluator          
+ 32 Multiport Simulation Extracto
+ 33 Huygens Exporter             
+ 34 VTK Exporter                 
+ 35 Polarization                 
+ 36 TX Sim. Comb.                
+ 37 Data Source                  
+ 38 Calculator                   
+ 39 SIBC Absorption Evaluator    
+ 40 Port Calculator              
+ 41 Data Cache Extractor         
+ 42 Planar Cut                   
+ 43 Anis. Conducivity            
+ 44 Surface J(x,y,z,f0) Evaluator
+ 45 Sensor Combiner              
+ 46 Neural Sensing               
+ 47 To Cell Data                 
+ 48 Projection Filter            
+ 49 Max Modulation               
+ 50 Mono-static RCS              
+ 51 Radiation Efficiency Evaluato
+ 52 MATLAB (R) Exporter          
+ 53 B(x,y,z,f0) Evaluator        
+ 54 Select Iterations            
+ 55 Touchstone (R) File Importer 
+ 56 Volume J(x,y,z,f0)           
+ 57 Action Potential Evaluator   
+ 58 Spikes Evaluator             
+ 59 DTI->Conducivity             
+ 60 ESD (PREVIEW)                
+ 61 Avg-E ICNIRP-2010            
+ 62 Maximum Exposure Optimizer   
+ 63 Avg-E IEEE-95.1-2005         
+ 64 Max Gain                     
+ 65 Normal Field                 
+ 66 Antenna Diversity            
+ 67 H(x,y,z,f0) Evaluator        
+ 68 Resample Field               
+ 69 SAR Statistics               
+ 70 To Point Data                
+ 71 Extract Snapshot             
+ 72 Onion field filter           
+ 73 Network Analysis             
+ 74 Max/min Intensity Projection 
+ 75 ARMA Evaluator               
+ 76 VTK XML Exporter             
+ 77 Interpolator                 
+ 78 Far Field Transform          
+ 79 Port Simulation Extractor    
+ 80 psSAR[IEEE/IEC62704-1] Evalua
+ 81 Component Mask Filter        
+ 82 Image Importer               
+ 83 Extract Eigen Vector         
+ 84 Extract Slice                
+ 85 Field Normalizer             
+ 86 Hessian of Electric Potential
+ 87 Sensor Extractor             
+ 88 Conducted Power              
+ 89 Gamma Comparison Evaluator   
+ 90 CExporterAlgorithm           
+ 91 CMacroAlgorithm              
+ 92 Maximum Exposure Optimizer (M
+ 93 Aggregate Iterations         
+ 94 HW/SW Data Object Exchange Ex
+ 95 Flux Evaluator               
+ 96 Gradient                     
+ 97 Titration Evaluator          
+ 98 ∇ Anis. Conducivity          
+ 99 Radiation Evaluator          
+100 TX Sim. Comb.                
+101 Scalar Product               
+102 Radiation Report             
+103 Far Field Fixture            
+104 Magnetic Energy              
+105 Field Propagator of Equivalen
+106 Unstructured Grid Extractor  
+107 Touchstone (R) File Exporter 
+108 TER Evaluator                
+109 Mask Filter                  
+110 D(x,y,z,f0) Evaluator        
+111 Solver File Extractor        
+112 Avg-J ICNIRP-1998            
+113 Text Exporter                
+114 Surface Average [IEEE 63195-2
+115 EXCEL (R) Exporter           
+116 Simulation Combiner          
+117 MAGPy Measurement Extractor  
+118 Crop                         
+119 Fractional Anisotropy        
+120 Extract Interval             
+121 Electric Energy              
+122 Statistics                   
+123 CEditableMacroAlgorithm      
+124 Field Distribution           
+125 Array Factor                 
+126 Field Combiner               
+127 Energy Density u(x,y,z,f0) Ev
+128 Extract Scalar               
+129 Current Extractor            
+130 Voltage Reader               
+131 1D Field Filter              
+132 Min-Max                      
+133 Surface Average              
+134 Simulator                    
+135 Append Fields                
+136 Field Scaling                
+137 S(x,y,z,t) Evaluator         
+138 Sensor Extractor             
+139 Model Source                 
+140 Exposure Ratio Evaluator     
+141 MIP Viewer                   
+142 Vector Field Viewer          
+143 Table Viewer                 
+144 DASY Viewer                  
+145 Surface Viewer               
+146 Plot                         
+147 Slice Viewer                 
+148 Iso-Surface                  
+149 Spherical Field Viewer       
+150 Volume Rendering             
+151 Streamline Viewer            
 ```
-## Tools
+## Modeling Tools
 ```
   0  Activate Grid                                      
   1  Append Meshes                                      
