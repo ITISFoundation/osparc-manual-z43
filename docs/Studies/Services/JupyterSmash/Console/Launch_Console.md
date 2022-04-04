@@ -1,2 +1,0 @@
-# Open a New Console ![drawing](docs/_media/console.png ':size=25:')
-See the documentation for Jupyter Octave+Python Math notebooks :link: [Console](docs/Studies/Services/JupyterOctavePythonMath/Console/Launch_Console.md) 

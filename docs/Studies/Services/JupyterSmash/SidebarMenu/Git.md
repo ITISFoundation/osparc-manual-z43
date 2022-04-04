@@ -1,2 +1,0 @@
-# Git Tool ![drawing](docs/_media/gitbutton.png ':size=25:')
-See the documentation for Jupyter Octave+Python Math notebooks :link: [Git](docs/Studies/Services/JupyterOctavePythonMath/SidebarMenu/Git.md) 

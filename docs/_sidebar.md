@@ -22,7 +22,7 @@
   * [General Tutorial](Tutorials/GeneralTutorial.md)
   * [Sim4Life Parallel Plate](Tutorials/Sim4LifeParallelPlate.md)
 * How to
-  * [Creating a Service](GeneralUsage/createservice.md)
+  * [Add and Update Services](GeneralUsage/createservice.md)
   * [Connect Services](GeneralUsage/MapInputs.md)
   * [Loading Data](Services/FilePicker.md)
   * [Share a Study](GeneralUsage/sharestudy.md)
