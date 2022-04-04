@@ -1,5 +1,5 @@
 # Available Services Overview
-In this section we will go over the details of some of the services. Visit the [Services](/docs/platform_introduction/services.md) page for a general overview.
+In this section we will go over the details of some of the services. Visit the [Services](platform_introduction/services.md) page for a general overview.
 
 Services:
   * [JupyterLab](Services/JupyterLab/JupyterLabs.md)

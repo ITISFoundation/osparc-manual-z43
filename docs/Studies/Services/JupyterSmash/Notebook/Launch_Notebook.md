@@ -1,2 +1,0 @@
-# Launch a New Notebook ![drawing](docs/_media/notebook.png ':size=25:')
-See the documentation for Jupyter Octave+Python Math notebooks :link: [Notebook](docs/Studies/Services/JupyterOctavePythonMath/Notebook/Launch_Notebook.md) 

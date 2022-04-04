@@ -1,2 +1,0 @@
-# Markdown Files ![drawing](docs/_media/markdown.png ':size=25:')
-See the documentation for Jupyter Octave+Python Math notebooks :link: [Markdown](docs/Studies/Services/JupyterOctavePythonMath/Other/Markdown.md) 
